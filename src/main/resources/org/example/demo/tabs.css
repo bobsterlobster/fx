@@ -1,0 +1,21 @@
+.tab-pane .tab-header-area {
+    -fx-background-color: #222b2e;
+    -fx-padding: 0 0 0 0;
+}
+.tab-pane .tab-header-background {
+    -fx-background-color: #222b2e;
+}
+.tab-pane .tab {
+    -fx-background-color: #636e72;
+    -fx-text-base-color: #fff;
+    -fx-background-radius: 10 10 0 0;
+    -fx-padding: 0 20 0 20;
+}
+.tab-pane .tab:selected {
+    -fx-background-color: #00cec9;
+    -fx-text-base-color: #222b2e;
+}
+.tab-pane .tab:hover {
+    -fx-background-color: #b2bec3;
+    -fx-text-base-color: #222b2e;
+}
